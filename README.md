@@ -1,1 +1,1 @@
-# Ethererum-App
+# Ethereum-App
